@@ -1,6 +1,6 @@
 # Ignore Quartus Workspace and personal settings
 *.qws
-*.vhd.bak
+*.bak
 
 # Ignore heavy auto-generated compilation folders
 db/
