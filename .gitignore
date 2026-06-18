@@ -1,0 +1,9 @@
+# Ignore Quartus Workspace and personal settings
+*.qws
+*.bak
+
+# Ignore heavy auto-generated compilation folders
+db/
+incremental_db/
+output_files/
+simulation/
